@@ -110,12 +110,8 @@
     
   </header>
 
-  
-
   <div id="main" class="clearfix">
     <div id="primary">
-    
-    
     
       <section id="content" role="main">
       
@@ -216,10 +212,4 @@
         <div class="copyright"><?php print t('Copyright'); ?> &copy; <?php echo date("Y"); ?> <a href="<?php print $front_page; ?>"><?php print $site_name; ?></a></div>
       </div>
     </div>
-</footer>
-
-
-
-
-
-
+</footer><!-- /#footer-bottom -->
